@@ -1,0 +1,2 @@
+Just run compile and on console like `java ThoughtProblems bluehouse` and would print `blue house`.
+But as we know, there are always an exception, like `java ThoughtProblems bluebiglatinhouse` that will print `blue big l a t in house`. 
